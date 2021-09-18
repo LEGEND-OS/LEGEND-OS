@@ -25,6 +25,11 @@
 <a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 </a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/aaryan14032006?label=Follow)](https://twitter.com/intent/follow?screen_name=aaryan14032006)
+![GitHub followers](https://img.shields.io/github/followers/aryan1403?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=aryan1403.aryan1403)
+[![Profile views](https://komarev.com/ghpvc/?username=aryan1403&label=Profile%20views)](https://github.com/aryan1403)
+
 </b></h2>  
 
 </details>
