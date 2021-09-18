@@ -1,9 +1,9 @@
-<h2 align="center"><b>⠂ρєяѕοиαℓ ιиƒοямατιοи⠐</b></h2>
+<h2 align="center"><b> ⠐Personal Information ⠐ </b></h2>
 
 <p align='Middle'><a href='https://t.me/Its_LegendBoy'><img src='https://telegra.ph/file/fc1fe09e8893a8ff4368e.jpg' width='750"'></a></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Python%2C+php%2C+Linux%E2%9D%A4%EF%B8%8F">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;ργτнοи%2C+ρɦρ%2C+ℓιиυϰ%E2%9D%A4%EF%B8%8F">
 </p> 
 <br>
 
@@ -22,11 +22,17 @@
 <h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
 <br>
 <br>
+  
+----
+![GitHub followers](https://img.shields.io/github/followers/LEGEND-OS?label=Follow&style=social)
+![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-OS.LEGEND-OS)
+[![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/LEGEND-OS)
+
+  
 <a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 </a>
 </b></h2>  
-
 </details>
 <details>
 <summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
