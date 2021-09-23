@@ -1,5 +1,6 @@
 from userbot import *
 from userbot.utils import *
+from . import *
 import os
 from asyncio import sleep
 from telethon import events
@@ -11,7 +12,7 @@ async def _(event):
     name = event.pattern_match.group(1)
     if event.fwd_from:
         return
-    animation_interval = 0.9
+    animation_interval = 1
     animation_ttl = range(192)
     animation_chars = [
    f"💔❤️💔❤️💔❤️💔❤️💔❤️💔\n❤️💔❤️💔❤️💔❤️💔❤️💔❤️\n💔❤️💔..**{name}**..💔❤️💔\n❤️💔❤️💔❤️💔❤️💔❤️💔❤️\n💔❤️💔❤️💔❤️💔❤️💔❤️💔\n",
