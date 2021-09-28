@@ -15,7 +15,7 @@
 
 - Country = "🇮🇳"
 
-- Ďôñt Břêãk †he Hêãřt Ôf †he Hâčķêř Bčôz Û Ďôñ† Know Whâ† Wìll Hâppñ †hên
+- Class = "11th"
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
@@ -34,6 +34,7 @@
 </a>
 </b></h2>  
 </details>
+
 <details>
 <summary>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠂</summary>
 <h2 align="center"><b>⠂𝙼𝚘𝚜𝚝 𝚄𝚜𝚎𝚍 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜⠐
@@ -56,10 +57,13 @@
 </details>
 
 <details>
-    <summary> <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=vckyou)
-
+<summary>⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐</summary>
+<h2 align="center"><b> ⠂𝚂𝚘𝚌𝚒𝚊𝚕 𝙼𝚎𝚍𝚒𝚊 𝙰𝚌𝚌𝚘𝚞𝚗𝚝𝚜⠐
+  <br>
+  <br>
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-OS)
+ 
+</b></h2>
 </details>
 
 <details>
