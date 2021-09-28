@@ -56,21 +56,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail.com-0072c6?style=for-the-badge&logo=Microsoft-Outlook&logoColor=Green)](Krishna045Jaiswal@gmail.com)</b></h2>
 </details>
 
-<details>
-<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
-<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
-<br>
-<br>
-  
-----
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=vckyou)
-
-  
-<a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
-    <img width="60%" align="center" alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
-</a>
-</b></h2>  
-</details>
 
 
 <details>
@@ -108,4 +93,19 @@
   <img alt="Windows 10" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
 </b></h2>
+</details>
+
+
+<details>
+<summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
+<h2 align="center"><b>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠐
+<br>
+<br>
+  
+----
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=vckyou)
+
+  
+
+</b></h2>  
 </details>
