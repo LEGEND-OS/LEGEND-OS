@@ -27,11 +27,11 @@
 ![GitHub followers](https://img.shields.io/github/followers/LEGEND-OS?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=LEGEND-OS.LEGEND-OS)
 [![Profile views](https://komarev.com/ghpvc/?username=LEGEND-OS&label=Profile%20views)](https://github.com/LEGEND-OS)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-OS)
   
 <a href="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&layout=compact&show_icons=true&theme=chartreuse-dark&cache_seconds=1800">
     <img width="60%" align="center" alt="𝙼𝚢 𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜" src="https://github-readme-stats.vercel.app/api?username=LEGEND-OS&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=86400" />
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=LEGEND-OS)
 </a>
 </b></h2>  
 </details>
