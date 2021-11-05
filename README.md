@@ -7,15 +7,13 @@
 </p> 
 <br>
 
-- Name = "κяιѕниα נαιѕωαℓ"
+- Name = "𝓚𝓻𝓲𝓼𝓱𝓷𝓪 𝓚𝓾𝓶𝓪𝓻"
 
 - Class = "11th"
 
 - Age = "16"
 
 - Country = "🇮🇳"
-
-- Class = "11th"
 
 <details>
 <summary>⠂𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜⠂</summary>
