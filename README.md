@@ -7,11 +7,11 @@
 </p> 
 <br>
 
-- Name = "𝓚𝓻𝓲𝓼𝓱𝓷𝓪 𝓚𝓾𝓶𝓪𝓻"
+- Name = "gopal kushwah"
 
-- Class = "11th"
+- Class = "12th"
 
-- Age = "16"
+- Age = "18"
 
 - Country = "🇮🇳"
 
