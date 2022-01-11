@@ -7,9 +7,9 @@
 </p> 
 <br>
 
-- Name = "𝓚𝓻𝓲𝓼𝓱𝓷𝓪 𝓚𝓾𝓶𝓪𝓻"
+- Name = "Avishek Bhattacharjee"
 
-- Class = "11th"
+- Class = "College"
 
 - Age = "16"
 
